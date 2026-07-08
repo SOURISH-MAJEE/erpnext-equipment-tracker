@@ -1,0 +1,1 @@
+# erpnext-equipment-tracker
